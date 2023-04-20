@@ -1,0 +1,4 @@
+# ignore the cloned repositories for simulator homework and projects
+ostep-homework/*
+ostep-projects/*
+bin/*
