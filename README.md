@@ -1,3 +1,4 @@
 # OSTEP Notes
 
-These are notes, homeworks and projects inspired by the [OSTEP book](https://pages.cs.wisc.edu/~remzi/OSTEP/).
+Notes for the [Operating Systems: Three Easy Pieces
+(OSTEP)](https://pages.cs.wisc.edu/~remzi/OSTEP/) textbook.
